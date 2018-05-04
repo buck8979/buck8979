@@ -1,0 +1,127 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.hebreunion.co.uk" resolutions="1x" timestamp="1525468425475">
+  <folder name="css">
+    <file name="site_global.css" crc="373709799"/>
+    <file name="master_a-master.css" crc="374365875" ref="bookings:news:events:contact:our-year:index"/>
+    <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="bookings:news:events:contact:our-year:index"/>
+    <file name="bookings.css" crc="536070811" ref="bookings"/>
+    <file name="nomq_bookings.css" crc="470800891" ref="bookings"/>
+    <file name="news.css" crc="3847478551" ref="news"/>
+    <file name="nomq_news.css" crc="179218360" ref="news"/>
+    <file name="events.css" crc="3932142609" ref="events"/>
+    <file name="nomq_events.css" crc="336795747" ref="events"/>
+    <file name="contact.css" crc="4131282597" ref="contact"/>
+    <file name="nomq_contact.css" crc="86206944" ref="contact"/>
+    <file name="our-year.css" crc="451507886" ref="our-year"/>
+    <file name="nomq_our-year.css" crc="3862254777" ref="our-year"/>
+    <file name="index.css" crc="4177406435" ref="index"/>
+    <file name="nomq_index.css" crc="4083298742" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:news:our-year:events:bookings:contact"/>
+    <file name="museutils.js" crc="340535759" ref="index:news:our-year:events:bookings:contact"/>
+    <file name="whatinput.js" crc="86476730" ref="index:news:our-year:events:bookings:contact"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:news:our-year:events:bookings:contact"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:news:our-year:events:bookings:contact"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="index:news:our-year:events:bookings:contact"/>
+    <file name="require.js" crc="7928878" ref="index:news:our-year:events:bookings:contact"/>
+    <file name="webpro.js" crc="4059564322" ref="events"/>
+    <file name="musewpdisclosure.js" crc="3883500470" ref="events"/>
+  </folder>
+  <folder name="images">
+    <file name="champagne.jpg" crc="4274512959" ref="index:news:our-year:events:bookings:contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="news" alt=""/>
+      <caption webpage="news" alt=""/>
+      <caption webpage="our-year" alt=""/>
+      <caption webpage="our-year" alt=""/>
+      <caption webpage="bookings" alt=""/>
+      <caption webpage="bookings" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="pointerb.png" crc="3780694765" seo="true" ref="index:news:our-year:events:bookings:contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="news" alt=""/>
+      <caption webpage="news" alt=""/>
+      <caption webpage="news" alt=""/>
+      <caption webpage="news" alt=""/>
+      <caption webpage="news" alt=""/>
+      <caption webpage="news" alt=""/>
+      <caption webpage="news" alt=""/>
+      <caption webpage="news" alt=""/>
+      <caption webpage="news" alt=""/>
+      <caption webpage="news" alt=""/>
+      <caption webpage="news" alt=""/>
+      <caption webpage="news" alt=""/>
+      <caption webpage="our-year" alt=""/>
+      <caption webpage="our-year" alt=""/>
+      <caption webpage="our-year" alt=""/>
+      <caption webpage="our-year" alt=""/>
+      <caption webpage="our-year" alt=""/>
+      <caption webpage="our-year" alt=""/>
+      <caption webpage="our-year" alt=""/>
+      <caption webpage="our-year" alt=""/>
+      <caption webpage="our-year" alt=""/>
+      <caption webpage="our-year" alt=""/>
+      <caption webpage="our-year" alt=""/>
+      <caption webpage="our-year" alt=""/>
+      <caption webpage="bookings" alt=""/>
+      <caption webpage="bookings" alt=""/>
+      <caption webpage="bookings" alt=""/>
+      <caption webpage="bookings" alt=""/>
+      <caption webpage="bookings" alt=""/>
+      <caption webpage="bookings" alt=""/>
+      <caption webpage="bookings" alt=""/>
+      <caption webpage="bookings" alt=""/>
+      <caption webpage="bookings" alt=""/>
+      <caption webpage="bookings" alt=""/>
+      <caption webpage="bookings" alt=""/>
+      <caption webpage="bookings" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:news:our-year:events:bookings:contact"/>
+  </folder>
+  <file name="index.html" crc="248750842" seo="true" mt="1525468185388" redirect="true"/>
+  <file name="news.html" crc="3882787316" seo="true" mt="1525467750448" redirect="true"/>
+  <file name="our-year.html" crc="4145153138" seo="true" mt="1525467750448" redirect="true"/>
+  <file name="events.html" crc="385866134" seo="true" mt="1525467750448" redirect="true"/>
+  <file name="bookings.html" crc="4054385885" seo="true" mt="1525467750448" redirect="true"/>
+  <file name="contact.html" crc="418884303" seo="true" mt="1525467750448" redirect="true"/>
+</manifest>
