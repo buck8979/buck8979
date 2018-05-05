@@ -2,54 +2,60 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://www.hebreunion.co.uk/index.html</loc>
-    <lastmod>2018-05-04</lastmod>
+    <lastmod>2018-05-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://www.hebreunion.co.uk/phone/index.html"/>
     <image:image>
       <image:loc>http://www.hebreunion.co.uk/images/pointerb.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://www.hebreunion.co.uk/news.html</loc>
-    <lastmod>2018-05-04</lastmod>
+    <lastmod>2018-05-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://www.hebreunion.co.uk/phone/news.html"/>
     <image:image>
       <image:loc>http://www.hebreunion.co.uk/images/pointerb.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://www.hebreunion.co.uk/our-year.html</loc>
-    <lastmod>2018-05-04</lastmod>
+    <lastmod>2018-05-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://www.hebreunion.co.uk/phone/our-year.html"/>
     <image:image>
       <image:loc>http://www.hebreunion.co.uk/images/pointerb.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://www.hebreunion.co.uk/events.html</loc>
-    <lastmod>2018-05-04</lastmod>
+    <lastmod>2018-05-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://www.hebreunion.co.uk/phone/events.html"/>
     <image:image>
       <image:loc>http://www.hebreunion.co.uk/images/pointerb.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://www.hebreunion.co.uk/bookings.html</loc>
-    <lastmod>2018-05-04</lastmod>
+    <lastmod>2018-05-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://www.hebreunion.co.uk/phone/bookings.html"/>
     <image:image>
       <image:loc>http://www.hebreunion.co.uk/images/pointerb.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://www.hebreunion.co.uk/contact.html</loc>
-    <lastmod>2018-05-04</lastmod>
+    <lastmod>2018-05-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://www.hebreunion.co.uk/phone/contact.html"/>
     <image:image>
       <image:loc>http://www.hebreunion.co.uk/images/pointerb.png</image:loc>
     </image:image>
