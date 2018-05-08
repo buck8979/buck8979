@@ -1,41 +1,41 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.reunionhebrides.com" resolutions="1x" timestamp="1525784473511">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.reunionhebrides.com" resolutions="1x" timestamp="1525793868526">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_main.css" crc="146465811" ref="contact:news:attending:pay:book---pay:booking:about:index:school-photos:programme:memories"/>
-    <file name="nomq_preview_master_main.css" crc="3941279405" ref="contact:news:attending:pay:book---pay:booking:about:index:school-photos:programme:memories"/>
-    <file name="contact.css" crc="4261810488" ref="contact"/>
-    <file name="nomq_contact.css" crc="427267644" ref="contact"/>
+    <file name="master_main.css" crc="247483590" ref="contact:news:attending:pay:book---pay:booking:about:index:school-photos:programme:memories"/>
+    <file name="nomq_preview_master_main.css" crc="41670854" ref="contact:news:attending:pay:book---pay:booking:about:index:school-photos:programme:memories"/>
+    <file name="contact.css" crc="375729980" ref="contact"/>
+    <file name="nomq_contact.css" crc="312958156" ref="contact"/>
     <file name="iefonts_contact.css" crc="3824530138" ref="contact"/>
-    <file name="news.css" crc="3844151648" ref="news"/>
-    <file name="nomq_news.css" crc="3843837683" ref="news"/>
+    <file name="news.css" crc="3822271800" ref="news"/>
+    <file name="nomq_news.css" crc="4181004900" ref="news"/>
     <file name="iefonts_news.css" crc="3824530138" ref="news"/>
-    <file name="attending.css" crc="149381960" ref="attending"/>
-    <file name="nomq_attending.css" crc="3996466182" ref="attending"/>
+    <file name="attending.css" crc="57299953" ref="attending"/>
+    <file name="nomq_attending.css" crc="3937796031" ref="attending"/>
     <file name="iefonts_attending.css" crc="3824530138" ref="attending"/>
-    <file name="pay.css" crc="467984915" ref="pay"/>
-    <file name="nomq_pay.css" crc="133338926" ref="pay"/>
+    <file name="pay.css" crc="370425440" ref="pay"/>
+    <file name="nomq_pay.css" crc="4013015247" ref="pay"/>
     <file name="iefonts_pay.css" crc="3824530138" ref="pay"/>
-    <file name="book---pay.css" crc="4294242807" ref="book---pay"/>
-    <file name="nomq_book---pay.css" crc="436488363" ref="book---pay"/>
+    <file name="book---pay.css" crc="236199364" ref="book---pay"/>
+    <file name="nomq_book---pay.css" crc="450439318" ref="book---pay"/>
     <file name="iefonts_book---pay.css" crc="3824530138" ref="book---pay"/>
-    <file name="booking.css" crc="4051145304" ref="booking"/>
-    <file name="nomq_booking.css" crc="4189999689" ref="booking"/>
+    <file name="booking.css" crc="3825893416" ref="booking"/>
+    <file name="nomq_booking.css" crc="3980575213" ref="booking"/>
     <file name="iefonts_booking.css" crc="3824530138" ref="booking"/>
-    <file name="about.css" crc="4170622918" ref="about"/>
-    <file name="nomq_about.css" crc="392840858" ref="about"/>
+    <file name="about.css" crc="3798146176" ref="about"/>
+    <file name="nomq_about.css" crc="3817362181" ref="about"/>
     <file name="iefonts_about.css" crc="3824530138" ref="about"/>
-    <file name="index.css" crc="384811419" ref="index"/>
-    <file name="nomq_index.css" crc="3983590897" ref="index"/>
+    <file name="index.css" crc="3899048461" ref="index"/>
+    <file name="nomq_index.css" crc="177180493" ref="index"/>
     <file name="iefonts_index.css" crc="3824530138" ref="index"/>
-    <file name="school-photos.css" crc="506435050" ref="school-photos"/>
-    <file name="nomq_school-photos.css" crc="232705597" ref="school-photos"/>
+    <file name="school-photos.css" crc="3878049578" ref="school-photos"/>
+    <file name="nomq_school-photos.css" crc="4183406019" ref="school-photos"/>
     <file name="iefonts_school-photos.css" crc="3824530138" ref="school-photos"/>
-    <file name="programme.css" crc="3989467965" ref="programme"/>
-    <file name="nomq_programme.css" crc="4159300954" ref="programme"/>
+    <file name="programme.css" crc="4255008867" ref="programme"/>
+    <file name="nomq_programme.css" crc="496263911" ref="programme"/>
     <file name="iefonts_programme.css" crc="3824530138" ref="programme"/>
-    <file name="memories.css" crc="3837711944" ref="memories"/>
+    <file name="memories.css" crc="4227710098" ref="memories"/>
+    <file name="nomq_memories.css" crc="3948104461" ref="memories"/>
     <file name="iefonts_memories.css" crc="3824530138" ref="memories"/>
-    <file name="nomq_memories.css" crc="3840411668" ref="memories"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:news:programme:contact:attending:memories:school-photos:book---pay:pay:booking"/>
@@ -44,10 +44,10 @@
     <file name="museconfig.js" crc="4286661555" ref="index:about:news:programme:contact:attending:memories:school-photos:book---pay:pay:booking"/>
     <file name="jquery.musemenu.js" crc="510910590" ref="index:about:news:programme:contact:attending:memories:school-photos:book---pay:pay:booking"/>
     <file name="jquery.watch.js" crc="51536988" ref="index:about:news:programme:contact:attending:memories:school-photos:book---pay:pay:booking"/>
-    <file name="webpro.js" crc="4059564322" ref="index:about:news:programme:contact:attending:school-photos:book---pay:pay:booking:memories"/>
-    <file name="musewpdisclosure.js" crc="3883500470" ref="index:about:news:programme:contact:attending:school-photos:book---pay:pay:booking:memories"/>
+    <file name="webpro.js" crc="4059564322" ref="index:about:news:programme:contact:attending:memories:school-photos:book---pay:pay:booking"/>
+    <file name="musewpdisclosure.js" crc="3883500470" ref="index:about:news:programme:contact:attending:memories:school-photos:book---pay:pay:booking"/>
     <file name="html5shiv.js" crc="4241844378" ref="index:about:news:programme:contact:attending:memories:school-photos:book---pay:pay:booking"/>
-    <file name="jquery.museresponsive.js" crc="527716135" ref="index:about:news:programme:contact:attending:school-photos:book---pay:pay:booking:memories"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="index:about:news:programme:contact:attending:memories:school-photos:book---pay:pay:booking"/>
     <file name="require.js" crc="7928878" ref="index:about:news:programme:contact:attending:memories:school-photos:book---pay:pay:booking"/>
     <file name="form_check.php" crc="3820983874" ref="contact"/>
     <file name="form_process.php" crc="3776570906" ref="contact"/>
@@ -60,35 +60,7 @@
   </folder>
   <folder name="images">
     <file name="main-favicon.ico" crc="218926716" ref="index"/>
-    <file name="arrowmenudown.png" crc="262559161" ref="index:contact:school-photos:pay">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="memories" alt=""/>
-      <caption webpage="memories" alt=""/>
-      <caption webpage="memories" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="school-photos" alt=""/>
-      <caption webpage="school-photos" alt=""/>
-      <caption webpage="school-photos" alt=""/>
-      <caption webpage="school-photos" alt=""/>
-      <caption webpage="school-photos" alt=""/>
-      <caption webpage="school-photos" alt=""/>
-      <caption webpage="pay" alt=""/>
-      <caption webpage="pay" alt=""/>
-      <caption webpage="pay" alt=""/>
-      <caption webpage="pay" alt=""/>
-      <caption webpage="pay" alt=""/>
-      <caption webpage="pay" alt=""/>
-    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:about:news:programme:contact:attending:memories:school-photos:book---pay:pay:booking"/>
     <file name="logo spark.png" crc="3811907504" seo="true" ref="index:about:news:programme:contact:attending:memories:school-photos:book---pay:pay:booking">
       <caption webpage="attending" alt=""/>
       <caption webpage="attending" alt=""/>
@@ -106,8 +78,6 @@
       <caption webpage="book---pay" alt=""/>
       <caption webpage="book---pay" alt=""/>
       <caption webpage="book---pay" alt=""/>
-      <caption webpage="yearbook" alt=""/>
-      <caption webpage="yearbook" alt=""/>
       <caption webpage="news" alt=""/>
       <caption webpage="news" alt=""/>
       <caption webpage="news" alt=""/>
@@ -168,6 +138,8 @@
       <caption webpage="programme" alt=""/>
       <caption webpage="programme" alt=""/>
       <caption webpage="programme" alt=""/>
+      <caption webpage="pay" alt=""/>
+      <caption webpage="pay" alt=""/>
       <caption webpage="pay" alt=""/>
       <caption webpage="pay" alt=""/>
       <caption webpage="pay" alt=""/>
@@ -179,12 +151,13 @@
       <caption webpage="pay" alt=""/>
       <caption webpage="pay" alt=""/>
     </file>
-    <file name="burger.png" crc="359409067" ref="index:about:attending:book---pay:pay:booking:news">
+    <file name="burger.png" crc="359409067" ref="index:about:news:attending:book---pay:pay:booking">
       <caption webpage="book---pay" alt=""/>
       <caption webpage="book---pay" alt=""/>
       <caption webpage="news" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
+      <caption webpage="pay" alt=""/>
+      <caption webpage="pay" alt=""/>
+      <caption webpage="pay" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="attending" alt=""/>
@@ -192,11 +165,54 @@
       <caption webpage="booking" alt=""/>
       <caption webpage="booking" alt=""/>
       <caption webpage="booking" alt=""/>
-      <caption webpage="pay" alt=""/>
-      <caption webpage="pay" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
     </file>
-    <file name="blank.gif" crc="4208392903" ref="index:about:news:programme:contact:attending:school-photos:book---pay:pay:booking:memories"/>
+    <file name="tnis6-crop-u85565.jpg" crc="416492959" seo="true" ref="school-photos">
+      <caption webpage="school-photos" alt=""/>
+    </file>
+    <file name="styp694x71.jpg" crc="81016523" seo="true" ref="school-photos">
+      <caption webpage="school-photos" alt=""/>
+    </file>
+    <file name="tnis6.jpg" crc="312020660" seo="true" ref="school-photos">
+      <caption webpage="school-photos" alt=""/>
+      <caption webpage="school-photos" alt=""/>
+    </file>
+    <file name="styp6.jpg" crc="111342787" seo="true" ref="school-photos">
+      <caption webpage="school-photos" alt=""/>
+      <caption webpage="school-photos" alt=""/>
+    </file>
     <file name="loading.gif" crc="3815509949" ref="school-photos"/>
+    <file name="tnis6-crop-u855652.jpg" crc="73127442" seo="true" ref="school-photos">
+      <caption webpage="school-photos" alt=""/>
+    </file>
+    <file name="styp673x55.jpg" crc="265955815" seo="true" ref="school-photos">
+      <caption webpage="school-photos" alt=""/>
+    </file>
+    <file name="tnis6-crop-u855653.jpg" crc="4194919207" seo="true" ref="school-photos">
+      <caption webpage="school-photos" alt=""/>
+    </file>
+    <file name="styp651x38.jpg" crc="129990240" seo="true" ref="school-photos">
+      <caption webpage="school-photos" alt=""/>
+    </file>
+    <file name="tnis6-crop-u85554.jpg" crc="494612529" seo="true" ref="school-photos">
+      <caption webpage="school-photos" alt=""/>
+    </file>
+    <file name="styp6-crop-u85600.jpg" crc="3988992629" seo="true" ref="school-photos">
+      <caption webpage="school-photos" alt=""/>
+    </file>
+    <file name="tnis6-crop-u855654.jpg" crc="306879581" seo="true" ref="school-photos">
+      <caption webpage="school-photos" alt=""/>
+    </file>
+    <file name="styp650x38.jpg" crc="129990240" seo="true" ref="school-photos">
+      <caption webpage="school-photos" alt=""/>
+    </file>
+    <file name="tnis6-crop-u855542.jpg" crc="340957072" seo="true" ref="school-photos">
+      <caption webpage="school-photos" alt=""/>
+    </file>
+    <file name="styp6-crop-u856002.jpg" crc="4257025737" seo="true" ref="school-photos">
+      <caption webpage="school-photos" alt=""/>
+    </file>
     <file name="checkboxunchecked.jpg" crc="495023700" ref="book---pay">
       <caption webpage="book---pay" alt=""/>
     </file>
@@ -233,60 +249,16 @@
     <file name="radiobuttoncheckedmousedown.png" crc="475385202" ref="book---pay">
       <caption webpage="book---pay" alt=""/>
     </file>
-    <file name="tnis6-crop-u85565.jpg" crc="416492959" seo="true" ref="school-photos">
-      <caption webpage="school-photos" alt=""/>
-    </file>
-    <file name="styp694x71.jpg" crc="81016523" seo="true" ref="school-photos">
-      <caption webpage="school-photos" alt=""/>
-    </file>
-    <file name="tnis6.jpg" crc="312020660" seo="true" ref="school-photos">
-      <caption webpage="school-photos" alt=""/>
-      <caption webpage="school-photos" alt=""/>
-    </file>
-    <file name="styp6.jpg" crc="111342787" seo="true" ref="school-photos">
-      <caption webpage="school-photos" alt=""/>
-      <caption webpage="school-photos" alt=""/>
-    </file>
-    <file name="tnis6-crop-u855652.jpg" crc="73127442" seo="true" ref="school-photos">
-      <caption webpage="school-photos" alt=""/>
-    </file>
-    <file name="styp673x55.jpg" crc="265955815" seo="true" ref="school-photos">
-      <caption webpage="school-photos" alt=""/>
-    </file>
-    <file name="tnis6-crop-u855653.jpg" crc="4194919207" seo="true" ref="school-photos">
-      <caption webpage="school-photos" alt=""/>
-    </file>
-    <file name="styp651x38.jpg" crc="129990240" seo="true" ref="school-photos">
-      <caption webpage="school-photos" alt=""/>
-    </file>
-    <file name="tnis6-crop-u85554.jpg" crc="494612529" seo="true" ref="school-photos">
-      <caption webpage="school-photos" alt=""/>
-    </file>
-    <file name="styp6-crop-u85600.jpg" crc="3988992629" seo="true" ref="school-photos">
-      <caption webpage="school-photos" alt=""/>
-    </file>
-    <file name="tnis6-crop-u855654.jpg" crc="306879581" seo="true" ref="school-photos">
-      <caption webpage="school-photos" alt=""/>
-    </file>
-    <file name="styp650x38.jpg" crc="129990240" seo="true" ref="school-photos">
-      <caption webpage="school-photos" alt=""/>
-    </file>
-    <file name="tnis6-crop-u855542.jpg" crc="340957072" seo="true" ref="school-photos">
-      <caption webpage="school-photos" alt=""/>
-    </file>
-    <file name="styp6-crop-u856002.jpg" crc="4257025737" seo="true" ref="school-photos">
-      <caption webpage="school-photos" alt=""/>
-    </file>
   </folder>
-  <file name="index.html" crc="157188499" seo="true" mt="1525784192673" redirect="true"/>
-  <file name="about.html" crc="4168985301" seo="true" mt="1525784192673" redirect="true"/>
-  <file name="news.html" crc="3893477319" seo="true" mt="1525784192673" redirect="true"/>
-  <file name="programme.html" crc="266994048" seo="true" mt="1525784192673" redirect="true"/>
-  <file name="contact.html" crc="16605430" seo="true" mt="1525784192673" redirect="true"/>
-  <file name="attending.html" crc="4248140216" seo="true" mt="1525784192673" redirect="true"/>
-  <file name="memories.html" crc="4045842627" seo="true" mt="1525784225931" redirect="true"/>
-  <file name="school-photos.html" crc="4071716056" seo="true" mt="1525784192673" redirect="true"/>
-  <file name="book---pay.html" crc="31670140" seo="true" mt="1525784192673" redirect="true"/>
-  <file name="pay.html" crc="163298276" seo="true" mt="1525784357228" redirect="true"/>
-  <file name="booking.html" crc="179093024" seo="true" mt="1525784192673" redirect="true"/>
+  <file name="index.html" crc="4218413010" seo="true" mt="1525787829613" redirect="true"/>
+  <file name="about.html" crc="489312386" seo="true" mt="1525787175810" redirect="true"/>
+  <file name="news.html" crc="3797662145" seo="true" mt="1525793834438" redirect="true"/>
+  <file name="programme.html" crc="134075469" seo="true" mt="1525791498115" redirect="true"/>
+  <file name="contact.html" crc="3808788975" seo="true" mt="1525787175810" redirect="true"/>
+  <file name="attending.html" crc="4073965873" seo="true" mt="1525787175810" redirect="true"/>
+  <file name="memories.html" crc="4076834943" seo="true" mt="1525787175810" redirect="true"/>
+  <file name="school-photos.html" crc="187762927" seo="true" mt="1525787175810" redirect="true"/>
+  <file name="book---pay.html" crc="3959059576" seo="true" mt="1525787175810" redirect="true"/>
+  <file name="pay.html" crc="267027036" seo="true" mt="1525793782746" redirect="true"/>
+  <file name="booking.html" crc="4053841314" seo="true" mt="1525787175810" redirect="true"/>
 </manifest>
