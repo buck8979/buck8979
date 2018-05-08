@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.reunionhebrides.com" resolutions="1x" timestamp="1525777224247">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.reunionhebrides.com" resolutions="1x" timestamp="1525777895379">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_main.css" crc="30129581" ref="contact:yearbook:news:attending:pay:book---pay:booking:about:index:school-photos:programme:memories"/>
@@ -60,7 +60,7 @@
     <file name="form-u7253.php" crc="272822922" ref="book---pay"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="84694741" ref="index"/>
+    <file name="main-favicon.ico" crc="218926716" ref="index"/>
     <file name="arrowmenudown.png" crc="262559161" ref="index:contact:memories:school-photos:pay">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -888,16 +888,16 @@
       <caption webpage="pay" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="491880314" seo="true" mt="1525776359305" redirect="true"/>
-  <file name="about.html" crc="184034074" seo="true" mt="1525777186356" redirect="true"/>
-  <file name="news.html" crc="4000977931" seo="true" mt="1525776359305" redirect="true"/>
-  <file name="programme.html" crc="4063510902" seo="true" mt="1525776359305" redirect="true"/>
-  <file name="contact.html" crc="91452691" seo="true" mt="1525776359305" redirect="true"/>
-  <file name="attending.html" crc="59796459" seo="true" mt="1525776359305" redirect="true"/>
-  <file name="memories.html" crc="437801689" seo="true" mt="1525776359346" redirect="true"/>
-  <file name="yearbook.html" crc="4275394556" seo="true" mt="1525777071858" redirect="true"/>
-  <file name="school-photos.html" crc="4111671748" seo="true" mt="1525776721593" redirect="true"/>
-  <file name="book---pay.html" crc="425676462" seo="true" mt="1525776359305" redirect="true"/>
-  <file name="pay.html" crc="294339125" seo="true" mt="1525776359305" redirect="true"/>
-  <file name="booking.html" crc="432865689" seo="true" mt="1525776359305" redirect="true"/>
+  <file name="index.html" crc="3863907611" seo="true" mt="1525777838668" redirect="true"/>
+  <file name="about.html" crc="4030591440" seo="true" mt="1525777838668" redirect="true"/>
+  <file name="news.html" crc="4277091192" seo="true" mt="1525777838668" redirect="true"/>
+  <file name="programme.html" crc="513805183" seo="true" mt="1525777838668" redirect="true"/>
+  <file name="contact.html" crc="3918765738" seo="true" mt="1525777838668" redirect="true"/>
+  <file name="attending.html" crc="3868376276" seo="true" mt="1525777838668" redirect="true"/>
+  <file name="memories.html" crc="324160489" seo="true" mt="1525777838668" redirect="true"/>
+  <file name="yearbook.html" crc="238576495" seo="true" mt="1525777838668" redirect="true"/>
+  <file name="school-photos.html" crc="299263366" seo="true" mt="1525777838668" redirect="true"/>
+  <file name="book---pay.html" crc="3791326232" seo="true" mt="1525777838668" redirect="true"/>
+  <file name="pay.html" crc="3812686648" seo="true" mt="1525777838668" redirect="true"/>
+  <file name="booking.html" crc="478921440" seo="true" mt="1525777838668" redirect="true"/>
 </manifest>
