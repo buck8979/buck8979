@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.reunionhebrides.com" resolutions="1x" timestamp="1525866474941">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.reunionhebrides.com" resolutions="1x" timestamp="1525866934571">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_main.css" crc="3923953633" ref="contact:news:attending:pay:book---pay:booking:about:index:programme:memories"/>
@@ -6,7 +6,7 @@
     <file name="contact.css" crc="3819455713" ref="contact"/>
     <file name="nomq_contact.css" crc="339383464" ref="contact"/>
     <file name="iefonts_contact.css" crc="3824530138" ref="contact"/>
-    <file name="news.css" crc="302567155" ref="news"/>
+    <file name="news.css" crc="4125780095" ref="news"/>
     <file name="nomq_news.css" crc="475307096" ref="news"/>
     <file name="iefonts_news.css" crc="3824530138" ref="news"/>
     <file name="attending.css" crc="35645866" ref="attending"/>
@@ -59,6 +59,14 @@
     <file name="main-favicon.ico" crc="218926716" ref="index:news"/>
     <file name="blank.gif" crc="4208392903" ref="index:about:news:programme:contact:attending:memories:book---pay:pay:booking"/>
     <file name="logo spark.png" crc="3811907504" seo="true" ref="index:about:news:programme:contact:attending:memories:book---pay:pay:booking">
+      <caption webpage="school-photos" alt=""/>
+      <caption webpage="school-photos" alt=""/>
+      <caption webpage="school-photos" alt=""/>
+      <caption webpage="school-photos" alt=""/>
+      <caption webpage="school-photos" alt=""/>
+      <caption webpage="school-photos" alt=""/>
+      <caption webpage="school-photos" alt=""/>
+      <caption webpage="school-photos" alt=""/>
       <caption webpage="memories" alt=""/>
       <caption webpage="memories" alt=""/>
       <caption webpage="memories" alt=""/>
@@ -71,48 +79,40 @@
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
+      <caption webpage="news" alt=""/>
+      <caption webpage="news" alt=""/>
+      <caption webpage="news" alt=""/>
+      <caption webpage="news" alt=""/>
+      <caption webpage="news" alt=""/>
+      <caption webpage="news" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="booking" alt=""/>
+      <caption webpage="booking" alt=""/>
+      <caption webpage="booking" alt=""/>
+      <caption webpage="booking" alt=""/>
+      <caption webpage="booking" alt=""/>
       <caption webpage="programme" alt=""/>
       <caption webpage="programme" alt=""/>
       <caption webpage="programme" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="pay" alt=""/>
-      <caption webpage="pay" alt=""/>
-      <caption webpage="pay" alt=""/>
-      <caption webpage="pay" alt=""/>
-      <caption webpage="pay" alt=""/>
-      <caption webpage="pay" alt=""/>
       <caption webpage="book---pay" alt=""/>
       <caption webpage="book---pay" alt=""/>
       <caption webpage="book---pay" alt=""/>
       <caption webpage="book---pay" alt=""/>
-      <caption webpage="news" alt=""/>
-      <caption webpage="news" alt=""/>
-      <caption webpage="news" alt=""/>
-      <caption webpage="news" alt=""/>
-      <caption webpage="news" alt=""/>
-      <caption webpage="news" alt=""/>
-      <caption webpage="booking" alt=""/>
-      <caption webpage="booking" alt=""/>
-      <caption webpage="booking" alt=""/>
-      <caption webpage="booking" alt=""/>
-      <caption webpage="booking" alt=""/>
-      <caption webpage="school-photos" alt=""/>
-      <caption webpage="school-photos" alt=""/>
-      <caption webpage="school-photos" alt=""/>
-      <caption webpage="school-photos" alt=""/>
-      <caption webpage="school-photos" alt=""/>
-      <caption webpage="school-photos" alt=""/>
-      <caption webpage="school-photos" alt=""/>
-      <caption webpage="school-photos" alt=""/>
+      <caption webpage="pay" alt=""/>
+      <caption webpage="pay" alt=""/>
+      <caption webpage="pay" alt=""/>
+      <caption webpage="pay" alt=""/>
+      <caption webpage="pay" alt=""/>
+      <caption webpage="pay" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
     </file>
     <file name="burger.png" crc="359409067" ref="index:about:news:attending:book---pay:pay:booking:programme">
       <caption webpage="pay" alt=""/>
@@ -122,16 +122,16 @@
       <caption webpage="attending" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
-      <caption webpage="news" alt=""/>
-      <caption webpage="news" alt=""/>
-      <caption webpage="news" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="book---pay" alt=""/>
-      <caption webpage="book---pay" alt=""/>
       <caption webpage="programme" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="book---pay" alt=""/>
+      <caption webpage="book---pay" alt=""/>
+      <caption webpage="news" alt=""/>
+      <caption webpage="news" alt=""/>
+      <caption webpage="news" alt=""/>
       <caption webpage="booking" alt=""/>
       <caption webpage="booking" alt=""/>
       <caption webpage="booking" alt=""/>
@@ -235,12 +235,6 @@
       <caption webpage="book---pay" alt=""/>
     </file>
     <file name="logo spark cropped.png" crc="48106106" seo="true" ref="index:about:news:programme:contact:attending:memories:book---pay:pay:booking">
-      <caption webpage="news" alt=""/>
-      <caption webpage="news" alt=""/>
-      <caption webpage="news" alt=""/>
-      <caption webpage="news" alt=""/>
-      <caption webpage="news" alt=""/>
-      <caption webpage="news" alt=""/>
       <caption webpage="pay" alt=""/>
       <caption webpage="pay" alt=""/>
       <caption webpage="pay" alt=""/>
@@ -255,26 +249,32 @@
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
-      <caption webpage="programme" alt=""/>
-      <caption webpage="programme" alt=""/>
-      <caption webpage="programme" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="booking" alt=""/>
-      <caption webpage="booking" alt=""/>
-      <caption webpage="booking" alt=""/>
-      <caption webpage="booking" alt=""/>
-      <caption webpage="booking" alt=""/>
       <caption webpage="book---pay" alt=""/>
       <caption webpage="book---pay" alt=""/>
       <caption webpage="book---pay" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="memories" alt=""/>
       <caption webpage="memories" alt=""/>
       <caption webpage="memories" alt=""/>
+      <caption webpage="programme" alt=""/>
+      <caption webpage="programme" alt=""/>
+      <caption webpage="programme" alt=""/>
+      <caption webpage="news" alt=""/>
+      <caption webpage="news" alt=""/>
+      <caption webpage="news" alt=""/>
+      <caption webpage="news" alt=""/>
+      <caption webpage="news" alt=""/>
+      <caption webpage="news" alt=""/>
+      <caption webpage="booking" alt=""/>
+      <caption webpage="booking" alt=""/>
+      <caption webpage="booking" alt=""/>
+      <caption webpage="booking" alt=""/>
+      <caption webpage="booking" alt=""/>
       <caption webpage="contact" alt=""/>
       <caption webpage="contact" alt=""/>
       <caption webpage="contact" alt=""/>
@@ -287,7 +287,7 @@
   </folder>
   <file name="index.html" crc="282211512" seo="true" mt="1525865679925" redirect="true"/>
   <file name="about.html" crc="4008141256" seo="true" mt="1525864570634" redirect="true"/>
-  <file name="news.html" crc="433676975" seo="true" mt="1525866433090" redirect="true"/>
+  <file name="news.html" crc="3889022998" seo="true" mt="1525866911035" redirect="true"/>
   <file name="programme.html" crc="3819264632" seo="true" mt="1525864570634" redirect="true"/>
   <file name="contact.html" crc="4266904630" seo="true" mt="1525864570634" redirect="true"/>
   <file name="attending.html" crc="3887327186" seo="true" mt="1525864570634" redirect="true"/>
