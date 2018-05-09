@@ -1,37 +1,37 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.reunionhebrides.com" resolutions="1x" timestamp="1525864207609">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.reunionhebrides.com" resolutions="1x" timestamp="1525866035385">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_main.css" crc="346340208" ref="contact:news:attending:pay:book---pay:booking:about:index:programme:memories"/>
-    <file name="nomq_preview_master_main.css" crc="386368362" ref="contact:news:attending:pay:book---pay:booking:about:index:programme:memories"/>
-    <file name="contact.css" crc="20145060" ref="contact"/>
-    <file name="nomq_contact.css" crc="3820307973" ref="contact"/>
+    <file name="master_main.css" crc="31802027" ref="contact:news:attending:pay:book---pay:booking:about:index:programme:memories"/>
+    <file name="nomq_preview_master_main.css" crc="402894642" ref="contact:news:attending:pay:book---pay:booking:about:index:programme:memories"/>
+    <file name="contact.css" crc="3819455713" ref="contact"/>
+    <file name="nomq_contact.css" crc="339383464" ref="contact"/>
     <file name="iefonts_contact.css" crc="3824530138" ref="contact"/>
-    <file name="news.css" crc="28415123" ref="news"/>
-    <file name="nomq_news.css" crc="4054144876" ref="news"/>
+    <file name="news.css" crc="3851437788" ref="news"/>
+    <file name="nomq_news.css" crc="3937268796" ref="news"/>
     <file name="iefonts_news.css" crc="3824530138" ref="news"/>
-    <file name="attending.css" crc="3770947179" ref="attending"/>
-    <file name="nomq_attending.css" crc="3766567962" ref="attending"/>
+    <file name="attending.css" crc="35645866" ref="attending"/>
+    <file name="nomq_attending.css" crc="55160843" ref="attending"/>
     <file name="iefonts_attending.css" crc="3824530138" ref="attending"/>
-    <file name="pay.css" crc="4288846141" ref="pay"/>
-    <file name="nomq_pay.css" crc="461066333" ref="pay"/>
+    <file name="pay.css" crc="3887945757" ref="pay"/>
+    <file name="nomq_pay.css" crc="3975048918" ref="pay"/>
     <file name="iefonts_pay.css" crc="3824530138" ref="pay"/>
-    <file name="book---pay.css" crc="240211423" ref="book---pay"/>
-    <file name="nomq_book---pay.css" crc="3981065316" ref="book---pay"/>
+    <file name="book---pay.css" crc="420525400" ref="book---pay"/>
+    <file name="nomq_book---pay.css" crc="335504953" ref="book---pay"/>
     <file name="iefonts_book---pay.css" crc="3824530138" ref="book---pay"/>
-    <file name="booking.css" crc="32735831" ref="booking"/>
-    <file name="nomq_booking.css" crc="4011099382" ref="booking"/>
+    <file name="booking.css" crc="95825030" ref="booking"/>
+    <file name="nomq_booking.css" crc="3921492147" ref="booking"/>
     <file name="iefonts_booking.css" crc="3824530138" ref="booking"/>
-    <file name="about.css" crc="4182810233" ref="about"/>
-    <file name="nomq_about.css" crc="108868235" ref="about"/>
+    <file name="about.css" crc="4218789129" ref="about"/>
+    <file name="nomq_about.css" crc="3895632438" ref="about"/>
     <file name="iefonts_about.css" crc="3824530138" ref="about"/>
-    <file name="index.css" crc="190791561" ref="index"/>
-    <file name="nomq_index.css" crc="4098976696" ref="index"/>
+    <file name="index.css" crc="3777590497" ref="index"/>
+    <file name="nomq_index.css" crc="337398127" ref="index"/>
     <file name="iefonts_index.css" crc="3824530138" ref="index"/>
-    <file name="programme.css" crc="4115169684" ref="programme"/>
-    <file name="nomq_programme.css" crc="4180333745" ref="programme"/>
+    <file name="programme.css" crc="453584555" ref="programme"/>
+    <file name="nomq_programme.css" crc="361689358" ref="programme"/>
     <file name="iefonts_programme.css" crc="3824530138" ref="programme"/>
-    <file name="memories.css" crc="4231655821" ref="memories"/>
-    <file name="nomq_memories.css" crc="4001620902" ref="memories"/>
+    <file name="memories.css" crc="3898653774" ref="memories"/>
+    <file name="nomq_memories.css" crc="4293123103" ref="memories"/>
     <file name="iefonts_memories.css" crc="3824530138" ref="memories"/>
   </folder>
   <folder name="scripts">
@@ -59,12 +59,11 @@
     <file name="main-favicon.ico" crc="218926716" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index:about:news:programme:contact:attending:memories:book---pay:pay:booking"/>
     <file name="logo spark.png" crc="3811907504" seo="true" ref="index:about:news:programme:contact:attending:memories:book---pay:pay:booking">
-      <caption webpage="pay" alt=""/>
-      <caption webpage="pay" alt=""/>
-      <caption webpage="pay" alt=""/>
-      <caption webpage="pay" alt=""/>
-      <caption webpage="pay" alt=""/>
-      <caption webpage="pay" alt=""/>
+      <caption webpage="booking" alt=""/>
+      <caption webpage="booking" alt=""/>
+      <caption webpage="booking" alt=""/>
+      <caption webpage="booking" alt=""/>
+      <caption webpage="booking" alt=""/>
       <caption webpage="attending" alt=""/>
       <caption webpage="attending" alt=""/>
       <caption webpage="attending" alt=""/>
@@ -81,11 +80,11 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="booking" alt=""/>
-      <caption webpage="booking" alt=""/>
-      <caption webpage="booking" alt=""/>
-      <caption webpage="booking" alt=""/>
-      <caption webpage="booking" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="memories" alt=""/>
+      <caption webpage="memories" alt=""/>
+      <caption webpage="memories" alt=""/>
+      <caption webpage="memories" alt=""/>
       <caption webpage="book---pay" alt=""/>
       <caption webpage="book---pay" alt=""/>
       <caption webpage="book---pay" alt=""/>
@@ -104,10 +103,12 @@
       <caption webpage="school-photos" alt=""/>
       <caption webpage="school-photos" alt=""/>
       <caption webpage="school-photos" alt=""/>
-      <caption webpage="memories" alt=""/>
-      <caption webpage="memories" alt=""/>
-      <caption webpage="memories" alt=""/>
-      <caption webpage="memories" alt=""/>
+      <caption webpage="pay" alt=""/>
+      <caption webpage="pay" alt=""/>
+      <caption webpage="pay" alt=""/>
+      <caption webpage="pay" alt=""/>
+      <caption webpage="pay" alt=""/>
+      <caption webpage="pay" alt=""/>
       <caption webpage="contact" alt=""/>
       <caption webpage="contact" alt=""/>
       <caption webpage="contact" alt=""/>
@@ -124,6 +125,7 @@
       <caption webpage="news" alt=""/>
       <caption webpage="news" alt=""/>
       <caption webpage="news" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -239,9 +241,11 @@
       <caption webpage="news" alt=""/>
       <caption webpage="news" alt=""/>
       <caption webpage="news" alt=""/>
-      <caption webpage="memories" alt=""/>
-      <caption webpage="memories" alt=""/>
-      <caption webpage="memories" alt=""/>
+      <caption webpage="booking" alt=""/>
+      <caption webpage="booking" alt=""/>
+      <caption webpage="booking" alt=""/>
+      <caption webpage="booking" alt=""/>
+      <caption webpage="booking" alt=""/>
       <caption webpage="attending" alt=""/>
       <caption webpage="attending" alt=""/>
       <caption webpage="attending" alt=""/>
@@ -258,38 +262,37 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="pay" alt=""/>
-      <caption webpage="pay" alt=""/>
-      <caption webpage="pay" alt=""/>
-      <caption webpage="pay" alt=""/>
-      <caption webpage="pay" alt=""/>
-      <caption webpage="pay" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="memories" alt=""/>
+      <caption webpage="memories" alt=""/>
+      <caption webpage="memories" alt=""/>
       <caption webpage="book---pay" alt=""/>
       <caption webpage="book---pay" alt=""/>
       <caption webpage="book---pay" alt=""/>
-      <caption webpage="booking" alt=""/>
-      <caption webpage="booking" alt=""/>
-      <caption webpage="booking" alt=""/>
-      <caption webpage="booking" alt=""/>
-      <caption webpage="booking" alt=""/>
+      <caption webpage="pay" alt=""/>
+      <caption webpage="pay" alt=""/>
+      <caption webpage="pay" alt=""/>
+      <caption webpage="pay" alt=""/>
+      <caption webpage="pay" alt=""/>
+      <caption webpage="pay" alt=""/>
       <caption webpage="contact" alt=""/>
       <caption webpage="contact" alt=""/>
       <caption webpage="contact" alt=""/>
       <caption webpage="contact" alt=""/>
     </file>
     <file name="logo spark cropped-crop-u113455.png" crc="3814271501" seo="true" ref="memories:book---pay">
-      <caption webpage="book---pay" alt=""/>
       <caption webpage="memories" alt=""/>
+      <caption webpage="book---pay" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="16275798" seo="true" mt="1525864134580" redirect="true"/>
-  <file name="about.html" crc="4183411525" seo="true" mt="1525864134580" redirect="true"/>
-  <file name="news.html" crc="188540468" seo="true" mt="1525864134580" redirect="true"/>
-  <file name="programme.html" crc="4068109457" seo="true" mt="1525864134580" redirect="true"/>
-  <file name="contact.html" crc="4196049243" seo="true" mt="1525864134580" redirect="true"/>
-  <file name="attending.html" crc="4196670624" seo="true" mt="1525864134580" redirect="true"/>
-  <file name="memories.html" crc="3907922091" seo="true" mt="1525864134580" redirect="true"/>
-  <file name="book---pay.html" crc="3866609137" seo="true" mt="1525864134580" redirect="true"/>
-  <file name="pay.html" crc="287927627" seo="true" mt="1525864134580" redirect="true"/>
-  <file name="booking.html" crc="3785257610" seo="true" mt="1525864134580" redirect="true"/>
+  <file name="index.html" crc="282211512" seo="true" mt="1525865679925" redirect="true"/>
+  <file name="about.html" crc="4008141256" seo="true" mt="1525864570634" redirect="true"/>
+  <file name="news.html" crc="106639852" seo="true" mt="1525866002680" redirect="true"/>
+  <file name="programme.html" crc="3819264632" seo="true" mt="1525864570634" redirect="true"/>
+  <file name="contact.html" crc="4266904630" seo="true" mt="1525864570634" redirect="true"/>
+  <file name="attending.html" crc="3887327186" seo="true" mt="1525864570634" redirect="true"/>
+  <file name="memories.html" crc="3761704748" seo="true" mt="1525864570634" redirect="true"/>
+  <file name="book---pay.html" crc="376778739" seo="true" mt="1525864570634" redirect="true"/>
+  <file name="pay.html" crc="3930787866" seo="true" mt="1525864570634" redirect="true"/>
+  <file name="booking.html" crc="144621042" seo="true" mt="1525864570634" redirect="true"/>
 </manifest>
