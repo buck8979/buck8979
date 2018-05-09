@@ -141,20 +141,6 @@ $form = array(
 			'errors' => array(
 			)
 		),
-		'custom_U7302' => array(
-			'order' => 11,
-			'type' => 'radiogroup',
-			'label' => 'Partner Attending Saturday Night',
-			'required' => true,
-			'optionItems' => array(
-				'Yes  (Additional £35)',
-				'No'
-			),
-			'errors' => array(
-				'required' => 'Field \'Partner Attending Saturday Night\' is required.',
-				'format' => 'Field \'Partner Attending Saturday Night\' has an invalid value.'
-			)
-		),
 		'custom_U7312' => array(
 			'order' => 10,
 			'type' => 'checkboxgroup',
@@ -169,6 +155,20 @@ $form = array(
 			'errors' => array(
 				'required' => 'Field \'I will be attending\' is required.',
 				'format' => 'Field \'I will be attending\' has an invalid value.'
+			)
+		),
+		'custom_U7302' => array(
+			'order' => 11,
+			'type' => 'radiogroup',
+			'label' => 'Partner Attending Saturday Night',
+			'required' => true,
+			'optionItems' => array(
+				'Yes  (Additional £35)',
+				'No'
+			),
+			'errors' => array(
+				'required' => 'Field \'Partner Attending Saturday Night\' is required.',
+				'format' => 'Field \'Partner Attending Saturday Night\' has an invalid value.'
 			)
 		)
 	)
