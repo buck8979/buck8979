@@ -1,37 +1,37 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.reunionhebrides.com" resolutions="1x" timestamp="1525862186499">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.reunionhebrides.com" resolutions="1x" timestamp="1525863144591">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_main.css" crc="4066738434" ref="contact:news:attending:pay:book---pay:booking:about:index:programme:memories"/>
+    <file name="master_main.css" crc="511993315" ref="contact:news:attending:pay:book---pay:booking:about:index:programme:memories"/>
     <file name="nomq_preview_master_main.css" crc="4243096916" ref="contact:news:attending:pay:book---pay:booking:about:index:programme:memories"/>
-    <file name="contact.css" crc="3842806669" ref="contact"/>
-    <file name="nomq_contact.css" crc="3829660728" ref="contact"/>
+    <file name="contact.css" crc="3787372030" ref="contact"/>
+    <file name="nomq_contact.css" crc="318336705" ref="contact"/>
     <file name="iefonts_contact.css" crc="3824530138" ref="contact"/>
-    <file name="news.css" crc="354693889" ref="news"/>
-    <file name="nomq_news.css" crc="4092111924" ref="news"/>
+    <file name="news.css" crc="4149700820" ref="news"/>
+    <file name="nomq_news.css" crc="4179045784" ref="news"/>
     <file name="iefonts_news.css" crc="3824530138" ref="news"/>
-    <file name="attending.css" crc="489942377" ref="attending"/>
-    <file name="nomq_attending.css" crc="88566739" ref="attending"/>
+    <file name="attending.css" crc="242900917" ref="attending"/>
+    <file name="nomq_attending.css" crc="3998459566" ref="attending"/>
     <file name="iefonts_attending.css" crc="3824530138" ref="attending"/>
-    <file name="pay.css" crc="4175699917" ref="pay"/>
-    <file name="nomq_pay.css" crc="3887433800" ref="pay"/>
+    <file name="pay.css" crc="196652782" ref="pay"/>
+    <file name="nomq_pay.css" crc="3804952494" ref="pay"/>
     <file name="iefonts_pay.css" crc="3824530138" ref="pay"/>
-    <file name="book---pay.css" crc="3919020369" ref="book---pay"/>
-    <file name="nomq_book---pay.css" crc="52631909" ref="book---pay"/>
+    <file name="book---pay.css" crc="122712765" ref="book---pay"/>
+    <file name="nomq_book---pay.css" crc="4165624964" ref="book---pay"/>
     <file name="iefonts_book---pay.css" crc="3824530138" ref="book---pay"/>
-    <file name="booking.css" crc="3936856006" ref="booking"/>
-    <file name="nomq_booking.css" crc="4043303745" ref="booking"/>
+    <file name="booking.css" crc="3951925543" ref="booking"/>
+    <file name="nomq_booking.css" crc="4194289161" ref="booking"/>
     <file name="iefonts_booking.css" crc="3824530138" ref="booking"/>
-    <file name="about.css" crc="432601386" ref="about"/>
-    <file name="nomq_about.css" crc="90280054" ref="about"/>
+    <file name="about.css" crc="3856760002" ref="about"/>
+    <file name="nomq_about.css" crc="4005406814" ref="about"/>
     <file name="iefonts_about.css" crc="3824530138" ref="about"/>
-    <file name="index.css" crc="4163418394" ref="index"/>
-    <file name="nomq_index.css" crc="3840127031" ref="index"/>
+    <file name="index.css" crc="437751679" ref="index"/>
+    <file name="nomq_index.css" crc="3978457479" ref="index"/>
     <file name="iefonts_index.css" crc="3824530138" ref="index"/>
-    <file name="programme.css" crc="4010984260" ref="programme"/>
-    <file name="nomq_programme.css" crc="482626624" ref="programme"/>
+    <file name="programme.css" crc="4158170748" ref="programme"/>
+    <file name="nomq_programme.css" crc="3794794526" ref="programme"/>
     <file name="iefonts_programme.css" crc="3824530138" ref="programme"/>
-    <file name="memories.css" crc="345962484" ref="memories"/>
-    <file name="nomq_memories.css" crc="3945189694" ref="memories"/>
+    <file name="memories.css" crc="288659772" ref="memories"/>
+    <file name="nomq_memories.css" crc="4046064199" ref="memories"/>
     <file name="iefonts_memories.css" crc="3824530138" ref="memories"/>
   </folder>
   <folder name="scripts">
@@ -53,26 +53,17 @@
     <file name="jquery.museoverlay.js" crc="4147669564" ref="memories"/>
     <file name="touchswipe.js" crc="4075097462" ref="memories"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="book---pay"/>
-    <file name="form-u7253.php" crc="272822922" ref="book---pay"/>
+    <file name="form-u7253.php" crc="476024538" ref="book---pay"/>
   </folder>
   <folder name="images">
     <file name="main-favicon.ico" crc="218926716" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index:about:news:programme:contact:attending:memories:book---pay:pay:booking"/>
     <file name="logo spark.png" crc="3811907504" seo="true" ref="index:about:news:programme:contact:attending:memories:book---pay:pay:booking">
-      <caption webpage="school-photos" alt=""/>
-      <caption webpage="school-photos" alt=""/>
-      <caption webpage="school-photos" alt=""/>
-      <caption webpage="school-photos" alt=""/>
-      <caption webpage="school-photos" alt=""/>
-      <caption webpage="school-photos" alt=""/>
-      <caption webpage="school-photos" alt=""/>
-      <caption webpage="school-photos" alt=""/>
-      <caption webpage="pay" alt=""/>
-      <caption webpage="pay" alt=""/>
-      <caption webpage="pay" alt=""/>
-      <caption webpage="pay" alt=""/>
-      <caption webpage="pay" alt=""/>
-      <caption webpage="pay" alt=""/>
+      <caption webpage="booking" alt=""/>
+      <caption webpage="booking" alt=""/>
+      <caption webpage="booking" alt=""/>
+      <caption webpage="booking" alt=""/>
+      <caption webpage="booking" alt=""/>
       <caption webpage="pay" alt=""/>
       <caption webpage="pay" alt=""/>
       <caption webpage="pay" alt=""/>
@@ -83,163 +74,127 @@
       <caption webpage="attending" alt=""/>
       <caption webpage="attending" alt=""/>
       <caption webpage="attending" alt=""/>
-      <caption webpage="attending" alt=""/>
-      <caption webpage="attending" alt=""/>
-      <caption webpage="attending" alt=""/>
-      <caption webpage="attending" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
+      <caption webpage="news" alt=""/>
+      <caption webpage="news" alt=""/>
+      <caption webpage="news" alt=""/>
+      <caption webpage="news" alt=""/>
+      <caption webpage="news" alt=""/>
+      <caption webpage="news" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="memories" alt=""/>
+      <caption webpage="memories" alt=""/>
+      <caption webpage="memories" alt=""/>
+      <caption webpage="memories" alt=""/>
       <caption webpage="programme" alt=""/>
       <caption webpage="programme" alt=""/>
       <caption webpage="programme" alt=""/>
-      <caption webpage="programme" alt=""/>
-      <caption webpage="programme" alt=""/>
-      <caption webpage="programme" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="memories" alt=""/>
-      <caption webpage="memories" alt=""/>
-      <caption webpage="memories" alt=""/>
-      <caption webpage="memories" alt=""/>
-      <caption webpage="memories" alt=""/>
-      <caption webpage="memories" alt=""/>
-      <caption webpage="memories" alt=""/>
-      <caption webpage="memories" alt=""/>
       <caption webpage="book---pay" alt=""/>
       <caption webpage="book---pay" alt=""/>
       <caption webpage="book---pay" alt=""/>
       <caption webpage="book---pay" alt=""/>
-      <caption webpage="book---pay" alt=""/>
-      <caption webpage="book---pay" alt=""/>
-      <caption webpage="book---pay" alt=""/>
-      <caption webpage="book---pay" alt=""/>
-      <caption webpage="news" alt=""/>
-      <caption webpage="news" alt=""/>
-      <caption webpage="news" alt=""/>
-      <caption webpage="news" alt=""/>
-      <caption webpage="news" alt=""/>
-      <caption webpage="news" alt=""/>
-      <caption webpage="news" alt=""/>
-      <caption webpage="news" alt=""/>
-      <caption webpage="news" alt=""/>
-      <caption webpage="news" alt=""/>
-      <caption webpage="news" alt=""/>
-      <caption webpage="news" alt=""/>
-      <caption webpage="booking" alt=""/>
-      <caption webpage="booking" alt=""/>
-      <caption webpage="booking" alt=""/>
-      <caption webpage="booking" alt=""/>
-      <caption webpage="booking" alt=""/>
-      <caption webpage="booking" alt=""/>
-      <caption webpage="booking" alt=""/>
-      <caption webpage="booking" alt=""/>
-      <caption webpage="booking" alt=""/>
-      <caption webpage="booking" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
+      <caption webpage="school-photos" alt=""/>
+      <caption webpage="school-photos" alt=""/>
+      <caption webpage="school-photos" alt=""/>
+      <caption webpage="school-photos" alt=""/>
+      <caption webpage="school-photos" alt=""/>
+      <caption webpage="school-photos" alt=""/>
+      <caption webpage="school-photos" alt=""/>
+      <caption webpage="school-photos" alt=""/>
       <caption webpage="contact" alt=""/>
       <caption webpage="contact" alt=""/>
       <caption webpage="contact" alt=""/>
       <caption webpage="contact" alt=""/>
     </file>
     <file name="burger.png" crc="359409067" ref="index:about:news:attending:book---pay:pay:booking:programme">
+      <caption webpage="pay" alt=""/>
+      <caption webpage="pay" alt=""/>
+      <caption webpage="pay" alt=""/>
+      <caption webpage="attending" alt=""/>
+      <caption webpage="attending" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="news" alt=""/>
+      <caption webpage="news" alt=""/>
+      <caption webpage="news" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="book---pay" alt=""/>
+      <caption webpage="book---pay" alt=""/>
       <caption webpage="programme" alt=""/>
-      <caption webpage="pay" alt=""/>
-      <caption webpage="pay" alt=""/>
-      <caption webpage="pay" alt=""/>
-      <caption webpage="attending" alt=""/>
-      <caption webpage="attending" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="book---pay" alt=""/>
-      <caption webpage="book---pay" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
       <caption webpage="booking" alt=""/>
       <caption webpage="booking" alt=""/>
       <caption webpage="booking" alt=""/>
-      <caption webpage="news" alt=""/>
-      <caption webpage="news" alt=""/>
-      <caption webpage="news" alt=""/>
       <caption webpage="contact" alt=""/>
     </file>
     <file name="tnis6-crop-u85565.jpg" crc="416492959" seo="true" ref="memories">
-      <caption webpage="school-photos" alt=""/>
       <caption webpage="memories" alt=""/>
+      <caption webpage="school-photos" alt=""/>
     </file>
     <file name="styp694x71.jpg" crc="81016523" seo="true" ref="memories">
-      <caption webpage="school-photos" alt=""/>
       <caption webpage="memories" alt=""/>
+      <caption webpage="school-photos" alt=""/>
     </file>
     <file name="tnis6.jpg" crc="312020660" seo="true" ref="memories">
-      <caption webpage="school-photos" alt=""/>
-      <caption webpage="school-photos" alt=""/>
       <caption webpage="memories" alt=""/>
       <caption webpage="memories" alt=""/>
+      <caption webpage="school-photos" alt=""/>
+      <caption webpage="school-photos" alt=""/>
     </file>
     <file name="styp6.jpg" crc="111342787" seo="true" ref="memories">
-      <caption webpage="school-photos" alt=""/>
-      <caption webpage="school-photos" alt=""/>
       <caption webpage="memories" alt=""/>
       <caption webpage="memories" alt=""/>
+      <caption webpage="school-photos" alt=""/>
+      <caption webpage="school-photos" alt=""/>
     </file>
     <file name="loading.gif" crc="3815509949" ref="memories"/>
     <file name="tnis6-crop-u855652.jpg" crc="73127442" seo="true" ref="memories">
-      <caption webpage="school-photos" alt=""/>
       <caption webpage="memories" alt=""/>
+      <caption webpage="school-photos" alt=""/>
     </file>
     <file name="styp673x55.jpg" crc="265955815" seo="true" ref="memories">
-      <caption webpage="school-photos" alt=""/>
       <caption webpage="memories" alt=""/>
+      <caption webpage="school-photos" alt=""/>
     </file>
     <file name="tnis6-crop-u855653.jpg" crc="4194919207" seo="true" ref="memories">
-      <caption webpage="school-photos" alt=""/>
       <caption webpage="memories" alt=""/>
+      <caption webpage="school-photos" alt=""/>
     </file>
     <file name="styp651x38.jpg" crc="129990240" seo="true" ref="memories">
-      <caption webpage="school-photos" alt=""/>
       <caption webpage="memories" alt=""/>
+      <caption webpage="school-photos" alt=""/>
     </file>
     <file name="tnis6-crop-u85554.jpg" crc="494612529" seo="true" ref="memories">
-      <caption webpage="school-photos" alt=""/>
       <caption webpage="memories" alt=""/>
+      <caption webpage="school-photos" alt=""/>
     </file>
     <file name="styp6-crop-u85600.jpg" crc="3988992629" seo="true" ref="memories">
-      <caption webpage="school-photos" alt=""/>
       <caption webpage="memories" alt=""/>
+      <caption webpage="school-photos" alt=""/>
     </file>
     <file name="tnis6-crop-u855654.jpg" crc="306879581" seo="true" ref="memories">
-      <caption webpage="school-photos" alt=""/>
       <caption webpage="memories" alt=""/>
+      <caption webpage="school-photos" alt=""/>
     </file>
     <file name="styp650x38.jpg" crc="129990240" seo="true" ref="memories">
-      <caption webpage="school-photos" alt=""/>
       <caption webpage="memories" alt=""/>
+      <caption webpage="school-photos" alt=""/>
     </file>
     <file name="tnis6-crop-u855542.jpg" crc="340957072" seo="true" ref="memories">
-      <caption webpage="school-photos" alt=""/>
       <caption webpage="memories" alt=""/>
+      <caption webpage="school-photos" alt=""/>
     </file>
     <file name="styp6-crop-u856002.jpg" crc="4257025737" seo="true" ref="memories">
-      <caption webpage="school-photos" alt=""/>
       <caption webpage="memories" alt=""/>
+      <caption webpage="school-photos" alt=""/>
     </file>
     <file name="checkboxunchecked.jpg" crc="495023700" ref="book---pay">
       <caption webpage="book---pay" alt=""/>
@@ -277,15 +232,64 @@
     <file name="radiobuttoncheckedmousedown.png" crc="475385202" ref="book---pay">
       <caption webpage="book---pay" alt=""/>
     </file>
+    <file name="logo spark cropped.png" crc="48106106" seo="true" ref="index:about:news:programme:contact:attending:memories:book---pay:pay:booking">
+      <caption webpage="booking" alt=""/>
+      <caption webpage="booking" alt=""/>
+      <caption webpage="booking" alt=""/>
+      <caption webpage="booking" alt=""/>
+      <caption webpage="booking" alt=""/>
+      <caption webpage="programme" alt=""/>
+      <caption webpage="programme" alt=""/>
+      <caption webpage="programme" alt=""/>
+      <caption webpage="attending" alt=""/>
+      <caption webpage="attending" alt=""/>
+      <caption webpage="attending" alt=""/>
+      <caption webpage="attending" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="pay" alt=""/>
+      <caption webpage="pay" alt=""/>
+      <caption webpage="pay" alt=""/>
+      <caption webpage="pay" alt=""/>
+      <caption webpage="pay" alt=""/>
+      <caption webpage="pay" alt=""/>
+      <caption webpage="news" alt=""/>
+      <caption webpage="news" alt=""/>
+      <caption webpage="news" alt=""/>
+      <caption webpage="news" alt=""/>
+      <caption webpage="news" alt=""/>
+      <caption webpage="news" alt=""/>
+      <caption webpage="book---pay" alt=""/>
+      <caption webpage="book---pay" alt=""/>
+      <caption webpage="book---pay" alt=""/>
+      <caption webpage="memories" alt=""/>
+      <caption webpage="memories" alt=""/>
+      <caption webpage="memories" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="logo spark cropped-crop-u113455.png" crc="3814271501" seo="true" ref="memories:book---pay">
+      <caption webpage="book---pay" alt=""/>
+      <caption webpage="memories" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="3880221364" seo="true" mt="1525862050336" redirect="true"/>
-  <file name="about.html" crc="3823135374" seo="true" mt="1525862050336" redirect="true"/>
-  <file name="news.html" crc="3775448451" seo="true" mt="1525862050336" redirect="true"/>
-  <file name="programme.html" crc="3836834042" seo="true" mt="1525862050336" redirect="true"/>
-  <file name="contact.html" crc="459203562" seo="true" mt="1525862050336" redirect="true"/>
-  <file name="attending.html" crc="35010428" seo="true" mt="1525862050336" redirect="true"/>
-  <file name="memories.html" crc="496977143" seo="true" mt="1525862050336" redirect="true"/>
-  <file name="book---pay.html" crc="4000819828" seo="true" mt="1525862050336" redirect="true"/>
-  <file name="pay.html" crc="4135525089" seo="true" mt="1525862050336" redirect="true"/>
-  <file name="booking.html" crc="316597296" seo="true" mt="1525862050336" redirect="true"/>
+  <file name="index.html" crc="4063509588" seo="true" mt="1525863057789" redirect="true"/>
+  <file name="about.html" crc="282750502" seo="true" mt="1525863057789" redirect="true"/>
+  <file name="news.html" crc="294386541" seo="true" mt="1525863057789" redirect="true"/>
+  <file name="programme.html" crc="527246901" seo="true" mt="1525863057789" redirect="true"/>
+  <file name="contact.html" crc="400069023" seo="true" mt="1525863057789" redirect="true"/>
+  <file name="attending.html" crc="172815559" seo="true" mt="1525863057789" redirect="true"/>
+  <file name="memories.html" crc="126248593" seo="true" mt="1525863057789" redirect="true"/>
+  <file name="book---pay.html" crc="4033494841" seo="true" mt="1525863057789" redirect="true"/>
+  <file name="pay.html" crc="4265142361" seo="true" mt="1525863057789" redirect="true"/>
+  <file name="booking.html" crc="133682743" seo="true" mt="1525863057789" redirect="true"/>
 </manifest>
